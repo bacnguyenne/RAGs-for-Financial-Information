@@ -21,7 +21,7 @@ cloud is used as the vector database.
     ```
 2. Navigate to the project directory:
     ```bash
-    cd dp_lab2
+    cd RAGs-for-Financial-Information
     ```
 3. Run the following command to start the services:
     ```bash
